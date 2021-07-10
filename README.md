@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack Javascript Developer working in the UK</h3>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 I’m currently working on **Perennial Wealth - helping people work towards financial independence**
+- 🔭 I’m currently working on **Spendature - helping people work towards financial independence**
 
 - 👨‍💻 All of my projects are available at [https://rameezk.netlify.app/](https://rameezk.netlify.app/)
 
