@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rameezk.netlify.app/](https://rameezk.netlify.app/)
 
-- 📝 I regularly create tech content [https://www.youtube.com/channel/UCp4e3l5NO69Vhprahea5SBQ](https://www.youtube.com/channel/UCp4e3l5NO69Vhprahea5SBQ)
+<!-- - 📝 I regularly create tech content [https://www.youtube.com/channel/UCp4e3l5NO69Vhprahea5SBQ](https://www.youtube.com/channel/UCp4e3l5NO69Vhprahea5SBQ) -->
 
 - 📫 How to reach me **ashkhj@gmail.com**
 
